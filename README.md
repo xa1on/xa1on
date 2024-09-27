@@ -1,6 +1,6 @@
 <img class="trimmed-cover" src="assets/archaic horizon woopa banner.png">
 
-```
+```html
 <h2 align="center">
 	about me
 </h2>
