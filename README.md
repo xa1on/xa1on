@@ -9,5 +9,5 @@
 - data science @uc berkeley
 - video/image processing
 - python, c++, java, javascript, lua, batch, etc.
-- school account @chenghaoli36
+- @chenghaoli36
 ``` 
