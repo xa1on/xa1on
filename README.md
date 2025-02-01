@@ -5,8 +5,8 @@
 	about me
 </h2>
 
-- milpitas / berkeley california
-- data science @berkeley
+- milpitas california
+- data science @uc berkeley
 - video/image processing
 - python, c++, java, javascript, lua, batch, etc.
 - school account @chenghaoli36
