@@ -6,7 +6,7 @@
 </h2>
 
 - milpitas, california
-- data science @uc berkeley
+- @uc berkeley
 - video/image processing
 - python, c++, java, javascript, ffmpeg, opencv2, onnx, batch, etc.
 - @chenghaoli36
