@@ -12,4 +12,4 @@
 - @chenghaoli36
 ``` 
 
-![](https://komarev.com/ghpvc/?username=xa1on&color=lightgrey&style=pixel)
+<img align="center" src="https://komarev.com/ghpvc/?username=xa1on&color=lightgrey">
