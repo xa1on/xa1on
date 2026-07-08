@@ -1,4 +1,8 @@
-<img class="trimmed-cover" src="assets/archaic horizon woopa banner.png">
+<a href="https://chenghao.li"><img class="trimmed-cover" src="assets/archaic horizon woopa banner.png"></a>
+
+<p align="center">
+^^^ click this (my website) ^^^
+</p>
 
 ```html
 <h2 align="center">
