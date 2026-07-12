@@ -15,5 +15,6 @@
 - python, c++, java, javascript, ffmpeg, opencv2, onnx, batch, etc.
 - @chenghaoli36
 ``` 
-
-<img src="https://komarev.com/ghpvc/?username=xa1on&color=800000&style=flat-square" style="display: block; margin: 0 auto;">
+<center>
+	<img src="https://komarev.com/ghpvc/?username=xa1on&color=800000&style=flat-square">
+</center>
