@@ -1,7 +1,7 @@
 <a href="https://chenghao.li"><img class="trimmed-cover" src="assets/archaic horizon woopa banner.png"></a>
 
 <p align="center">
-^^^ click this (my website) ^^^
+↑ click this (my <a href="https://chenghao.li" style="color: ff0000;">website</a>) ↑
 </p>
 
 ```html
@@ -9,7 +9,6 @@
 	about me
 </h2>
 
-- website: chenghao.li
 - milpitas, california
 - @uc berkeley
 - video/image processing
@@ -17,4 +16,4 @@
 - @chenghaoli36
 ``` 
 
-<img align="center" src="https://komarev.com/ghpvc/?username=xa1on&color=lightgrey">
+<img src="https://komarev.com/ghpvc/?username=xa1on&color=800000&style=flat-square" style="display: block; margin: 0 auto;">
